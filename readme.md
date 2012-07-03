@@ -49,6 +49,7 @@ Anyone and everyone is welcome to [contribute](https://github.com/h5bp/html5-boi
 * jQuery: MIT/GPL license
 * Modernizr: MIT/BSD license
 * Normalize.css: Public Domain
+* LESS Elements
 
 ### Everything else:
 
